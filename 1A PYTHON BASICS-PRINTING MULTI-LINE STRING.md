@@ -10,7 +10,10 @@ To create a Python program to print the string in multiple lines using triple qu
 4. Terminate the program.
 
 ## PROGRAM
-
+```python
+# Reg.No-212222060229
+# Name-sarvesan lathika
+# Write your code here
 
 print("""I am a string literal
 ... has more than one
@@ -20,13 +23,10 @@ I am a string literal
 ... has more than one
 ... line
 ....placed inside triple double quotes""")
-
-
+```
 ## OUTPUT
-
-<img width="1189" height="462" alt="image" src="https://github.com/user-attachments/assets/11838084-1bd2-4fef-bde2-246047322c70" />
+<img width="1189" height="462" alt="image" src="https://github.com/user-attachments/assets/0db2c2be-beac-4c6a-b418-32ee29bca25b" />
 
 
 ## RESULT
 The program prints a multiline string using both triple single (''') and triple double (""") quotes.
-
